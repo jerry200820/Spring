@@ -10,6 +10,7 @@ import com.zytestsrm.service.impl.UserreImlp;
 public class UserTest {
     public static void main(String[] args) {
         UserreImlp userreImlp = new UserreImlp();
-        userreImlp.test();
+     int s =   userreImlp.test();
+        System.out.println(s);
     }
 }
