@@ -11,5 +11,6 @@ public class UserTest {
     public static void main(String[] args) {
         UserreImlp userreImlp = new UserreImlp();
         userreImlp.test();
+        System.out.println(1);
     }
 }
