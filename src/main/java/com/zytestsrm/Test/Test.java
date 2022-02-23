@@ -8,7 +8,7 @@ package com.zytestsrm.Test;
 public class Test {
 
     public static void main(String[] args) {
-
+System.out.println("我也不知道为什么master 没有东西");
         System.out.println("测试");
         System.out.println("10021");
         System.out.println("34268");
